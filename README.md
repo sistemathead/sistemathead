@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sistemathead
-- 👀 We are a Social Entrepreneurship company.
+- 👋 Hi, we are @sistemathead
+- 👀 We are a Social Entrepreneurship non profit organization.
 - 🌱 We are a team of teacher training and educational materials creating. Our fields are innovative and inclusive technology, STEAM and robotics, social entrepreneurship and skills of the 21st century, linked to the Sustainable Development Goals (SDGs).
 - 💞️ We are looking forward to collaborate with people, educators, designers, etc. interested in make edtech inclusive.
 - 📫 How to reach me www.sistemathead.com

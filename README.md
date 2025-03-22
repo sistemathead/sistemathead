@@ -1,11 +1,10 @@
 - 👋 Hi, we are @sistemathead
-- 👀 We are a Social Entrepreneurship non profit organization.
-- 🌱 We are a team of teacher training and educational materials creating. Our fields are innovative and inclusive technology, STEAM and robotics, social entrepreneurship and skills of the 21st century, linked to the Sustainable Development Goals (SDGs).
-- 💞️ We are looking forward to collaborate with people, educators, designers, etc. interested in make edtech inclusive.
-- 📫 How to reach me www.sistemathead.com
+- 👀 We are a non profit educational organization.
+- 🌱 Or mission is to reduce the digital divide among underepresented groups and empower future generations to make a better and more inclusive world.
+- 💞️ We are looking forward to collaborate with creatives, educators, designers, etc. interested in make edtech more inclusive.
+- 📫 How to reach us? www.sistemathead.org
 
-THEAD - Transform your Teaching-Learning Skills to Make a Difference
-© 2022 THEAD System, Digital Literacy to Change the World
+Sistema THEAD, Digital Literacy to Change the World
 We work with ❤ from Barcelona (Spain)
 
 <!---
